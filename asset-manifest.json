@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/AlyraHerokuVoting/static/css/main.37b9b77c.chunk.css",
-    "main.js": "/AlyraHerokuVoting/static/js/main.4d411ea8.chunk.js",
-    "main.js.map": "/AlyraHerokuVoting/static/js/main.4d411ea8.chunk.js.map",
-    "runtime-main.js": "/AlyraHerokuVoting/static/js/runtime-main.4801933f.js",
-    "runtime-main.js.map": "/AlyraHerokuVoting/static/js/runtime-main.4801933f.js.map",
-    "static/css/2.6a23f8e0.chunk.css": "/AlyraHerokuVoting/static/css/2.6a23f8e0.chunk.css",
-    "static/js/2.8ad8fde9.chunk.js": "/AlyraHerokuVoting/static/js/2.8ad8fde9.chunk.js",
-    "static/js/2.8ad8fde9.chunk.js.map": "/AlyraHerokuVoting/static/js/2.8ad8fde9.chunk.js.map",
-    "index.html": "/AlyraHerokuVoting/index.html",
-    "precache-manifest.96fbd4a4992d29ecb29c7dae947407a7.js": "/AlyraHerokuVoting/precache-manifest.96fbd4a4992d29ecb29c7dae947407a7.js",
-    "service-worker.js": "/AlyraHerokuVoting/service-worker.js",
-    "static/css/2.6a23f8e0.chunk.css.map": "/AlyraHerokuVoting/static/css/2.6a23f8e0.chunk.css.map",
-    "static/css/main.37b9b77c.chunk.css.map": "/AlyraHerokuVoting/static/css/main.37b9b77c.chunk.css.map"
+    "main.css": "/AlyraHerokuVoting/public/index.html/static/css/main.37b9b77c.chunk.css",
+    "main.js": "/AlyraHerokuVoting/public/index.html/static/js/main.e37f21cc.chunk.js",
+    "main.js.map": "/AlyraHerokuVoting/public/index.html/static/js/main.e37f21cc.chunk.js.map",
+    "runtime-main.js": "/AlyraHerokuVoting/public/index.html/static/js/runtime-main.0caa22e8.js",
+    "runtime-main.js.map": "/AlyraHerokuVoting/public/index.html/static/js/runtime-main.0caa22e8.js.map",
+    "static/css/2.6a23f8e0.chunk.css": "/AlyraHerokuVoting/public/index.html/static/css/2.6a23f8e0.chunk.css",
+    "static/js/2.6fd38aea.chunk.js": "/AlyraHerokuVoting/public/index.html/static/js/2.6fd38aea.chunk.js",
+    "static/js/2.6fd38aea.chunk.js.map": "/AlyraHerokuVoting/public/index.html/static/js/2.6fd38aea.chunk.js.map",
+    "index.html": "/AlyraHerokuVoting/public/index.html/index.html",
+    "precache-manifest.9918e89ded822cd3bf875f981c3f13d4.js": "/AlyraHerokuVoting/public/index.html/precache-manifest.9918e89ded822cd3bf875f981c3f13d4.js",
+    "service-worker.js": "/AlyraHerokuVoting/public/index.html/service-worker.js",
+    "static/css/2.6a23f8e0.chunk.css.map": "/AlyraHerokuVoting/public/index.html/static/css/2.6a23f8e0.chunk.css.map",
+    "static/css/main.37b9b77c.chunk.css.map": "/AlyraHerokuVoting/public/index.html/static/css/main.37b9b77c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4801933f.js",
+    "static/js/runtime-main.0caa22e8.js",
     "static/css/2.6a23f8e0.chunk.css",
-    "static/js/2.8ad8fde9.chunk.js",
+    "static/js/2.6fd38aea.chunk.js",
     "static/css/main.37b9b77c.chunk.css",
-    "static/js/main.4d411ea8.chunk.js"
+    "static/js/main.e37f21cc.chunk.js"
   ]
 }
