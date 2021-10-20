@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa3fd0f3afbfedc52087c01ad40ed418",
+    "revision": "49524123e11997d345f5a6da8bdc211c",
     "url": "/AlyraHerokuVoting/index.html"
   },
   {
-    "revision": "d2e307e0e43b64b751aa",
-    "url": "/AlyraHerokuVoting/static/css/2.09699a42.chunk.css"
+    "revision": "31e84f3f95e709c88f65",
+    "url": "/AlyraHerokuVoting/static/css/2.6a23f8e0.chunk.css"
   },
   {
     "revision": "bcca31c3ac00d86adb98",
     "url": "/AlyraHerokuVoting/static/css/main.37b9b77c.chunk.css"
   },
   {
-    "revision": "d2e307e0e43b64b751aa",
+    "revision": "31e84f3f95e709c88f65",
     "url": "/AlyraHerokuVoting/static/js/2.8ad8fde9.chunk.js"
   },
   {
